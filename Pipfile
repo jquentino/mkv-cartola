@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pandas = "*"
 python-cartolafc = {ref = "feature/resultados", git = "git+https://github.com/jquentino/python-cartolafc2.git"}
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
